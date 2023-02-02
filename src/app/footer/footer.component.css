@@ -1,0 +1,150 @@
+
+footer{
+  background-color: #212529;
+  height: auto;
+  width: 100%;
+  display: block;
+  position: relative;
+  float: left;
+  padding: 50px 0;
+  }
+  footer p {
+  width: 100%;
+  height: auto;
+  display: block;
+  position: relative;
+  float: left;
+  margin-top: 20px;
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 300;
+  }
+  footer .widget h3 {
+  color: #fff;
+  margin-bottom: 30px;
+  }
+  footer .contact {
+  width: 100%;
+  height: auto;
+  display: block;
+  position: relative;
+  float: left;
+  }
+  footer .contact h1 {
+  width: auto;
+  height: auto;
+  display: block;
+  position: relative;
+  float: none;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 300;
+  margin-bottom: 17px;
+  }
+  footer .contact span {
+  width: 100%;
+  height: auto;
+  display: inline-block;
+  position: relative;
+  float: none;
+  margin-bottom: 7px;
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 300;
+  }
+  .footer-copyright .mt {
+    width: auto;
+    height: auto;
+    display: flex;
+    float: right;
+    position: relative;
+    color: #ffffff;
+    font-size: 10px;
+    margin-bottom: 0;
+    justify-content: center;
+    align-items: center;
+
+    }
+    .footer-copyright {
+      width: 100%;
+      height: auto;
+      display: block;
+      position: relative;
+      float: left;
+      background-color: #222222;
+      padding: 5px 0;
+      }
+
+      .footer-copyright p {
+      width: auto;
+      height: auto;
+      display: flex;
+      float: left;
+      position: relative;
+      margin-bottom: 0;
+      min-height: 30px;
+      justify-content: center;
+      align-items: center;
+      font-size: 10px;
+      color: #ffffff;
+      }
+      .phone{
+        display: flex;
+        float: left;
+        padding-right: 10px;
+        }
+
+        .fontOne
+{
+font-family: 'Libre Baskerville', serif;
+font-size: 16px;
+}
+.font{
+font-family: 'El Messiri', sans-serif;
+color: white;
+  font-size: 20px;
+  margin-top: -6px;
+  margin-bottom: 6px;
+}
+
+  .textwidget{
+    font-size: 12px;
+    color: #999;
+
+    }
+    .textwidget ul {
+    list-style: none;
+    list-style-type: none;
+    position: relative;
+      float: left;
+      margin-left: -31px;
+
+    }
+    .textwidget p{
+    font-size: 12px;
+    color: #999;
+    margin: 0 0 ;
+    }
+    .textwidget h6 {
+    color: #fff;
+    }
+    .textwidget .font h6{
+
+      font-size: 29px;
+      margin-top: -7px;
+      margin-bottom: 6px;
+
+    }
+    .brand .logo{
+      margin-top: -33px;
+       background-size: cover;
+       height: 80px;
+       width: 80px;
+
+
+    }
+.brand{
+  display:flex;
+
+}
+

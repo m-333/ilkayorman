@@ -1,0 +1,20 @@
+runtime: python27
+api_version: 1
+threadsafe: true
+handlers:
+  - url: /
+    static_files: dist/ilkayormancilik/index.html
+    upload: dist/ilkayormancilik/index.html
+  - url: /
+    static_dir: dist/ilkayormancilik
+skip_files:
+  - e2e/
+  - node_modules/
+  - src/
+  - coverage
+  - ^(.*/)?\..*$
+  - ^(.*/)?.*\.json$
+  - ^(.*/)?.*\.md$
+  - ^(.*/)?.*\.yaml$
+  - ^LICENSE
+# Dosyanın adı muhakkak app.yaml olacak.
